@@ -1,1 +1,1 @@
-# TEMPLATE_Audit_Contest_PRIVATE
+# FTM_NFT_Audit_Contest
